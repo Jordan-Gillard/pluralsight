@@ -27,3 +27,6 @@ hs_err_pid*
 
 # Ignore Maven target directories
 */target/**
+
+# Ignore gradle files which IntelliJ automatically generates
+*.gradle
