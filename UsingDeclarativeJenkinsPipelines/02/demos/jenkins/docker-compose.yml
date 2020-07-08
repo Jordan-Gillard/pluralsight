@@ -8,4 +8,4 @@ services:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
     build:
-      context: 20.04
+      context: "20.04"
